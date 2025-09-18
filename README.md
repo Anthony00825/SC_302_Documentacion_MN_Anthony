@@ -1,1 +1,4 @@
-# SC_302_Documentacion_MN_Anthony
+# SC\_302\_Documentacion\_MN\_Anthony
+
+Esta es mi primera práctica con GitHub.
+
